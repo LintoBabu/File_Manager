@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.linto_downloder">
+    package="com.example.File_Manager">
    <application
-        android:label="linto_downloder"
+        android:label="File_Manager"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:linto_downloder/auth/home/homePage.dart';
-import 'package:linto_downloder/auth/profile/profile.dart';
+import 'package:File_Manager/auth/home/homePage.dart';
+import 'package:File_Manager/auth/profile/profile.dart';
+
 
 import '../signup/signUp.dart';
 

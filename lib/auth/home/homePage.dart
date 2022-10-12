@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:linto_downloder/auth/profile/profile.dart';
+import 'package:File_Manager/auth/profile/profile.dart';
 
 import '../profile/settings.dart';
 
@@ -13,6 +13,8 @@ class homepage extends StatefulWidget {
 }
 
 class _homepageState extends State<homepage> {
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -457,4 +459,7 @@ class _homepageState extends State<homepage> {
           )),
     );
   }
+}
+
+class loginModel {
 }

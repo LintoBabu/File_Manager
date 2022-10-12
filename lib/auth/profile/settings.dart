@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:linto_downloder/auth/profile/profile.dart';
+import 'package:File_Manager/auth/profile/profile.dart';
 class settings extends StatefulWidget {
   const settings({Key? key}) : super(key: key);
 

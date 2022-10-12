@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:linto_downloder/auth/login/loginPage.dart';
+import 'package:File_Manager/auth/login/loginPage.dart';
 
 void main() {
   runApp(const MyApp());
